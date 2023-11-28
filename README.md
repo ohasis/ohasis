@@ -1,6 +1,6 @@
 - 🪷 Hi, I’m @the0asis
 - 🎮 I’m interested in UX and UI research, specifically relating to video games
-- 🌱 I’m currently completing a Bachelor of Science in Cognitive Science with a Specialization in Design and Interaction
+- 🌱 I’m currently completing a Bachelor of Science in Cognitive Science with a Specialization in Design and Interaction at UCSD
 - 🤝 I’m looking to collaborate on the back end of an Amazon Chrome plugin
 - 📫 Reach me at <u>1professionalreply@gmail.com</u>
 
