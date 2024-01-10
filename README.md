@@ -1,7 +1,7 @@
 - 🪷 Hi, I’m @the0asis
 - 🎮 I’m interested in UX and UI research, specifically relating to video games
 - 🌱 I’m currently completing a Bachelor of Science in Cognitive Science with a Specialization in Design and Interaction
-- 🤝 I’m looking to collaborate on the back end of an Amazon Chrome plugin
+- 🤝 I’m looking to collaborate on an eco-friendly city model, specifically regarding rendering and event simulation
 - 📫 Reach me at <u>1professionalreply@gmail.com</u>
 
 <!---
