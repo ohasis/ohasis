@@ -1,4 +1,4 @@
-- 🪷 Hi, I’m @the0asis
+- 🪷 Hi, I’m @ohasis
 - 🎮 I’m interested in UX and UI research, specifically relating to video games
 - 🌱 I’m currently completing a Bachelor of Science in Cognitive Science with a Specialization in Design and Interaction
 - 🤝 I’m looking to collaborate on an eco-friendly city model, specifically regarding rendering and event simulation
